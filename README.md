@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @asbier-lab
 - 👀 I’m interested in deploying my own webapp
 - 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on exiting Projects
+- 📚 I’m looking to learn
 - 📫 How to reach me - write me 
 - 😄 Pronouns: She
 - ⚡ Fun fact: I dont like beer
